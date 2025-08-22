@@ -1,0 +1,6 @@
+name: Hello
+on: push
+
+jobs:
+ hello:
+  runs-on:
